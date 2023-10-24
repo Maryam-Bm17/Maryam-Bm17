@@ -25,7 +25,7 @@ hobbies : "coding , wathing movies"
 
 <p align="left">
      <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Marybemani17/Marybemani17/blob/main/github.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Marybemani17/Marybemani17/blob/main/instagram.svg" width="32" height="32" /></a>
 </p>
 
 
