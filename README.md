@@ -20,6 +20,15 @@ hobbies : "coding , wathing movies"
 </p>
 
 
+
+<h3>Socials:</h3>
+
+<p align="left">
+     <a href="" target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a>
+</p>
+
+
 <!--
 **Marybemani17/Marybemani17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
