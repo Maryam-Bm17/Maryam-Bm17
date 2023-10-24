@@ -14,7 +14,7 @@ hobbies : "coding , wathing movies"
 <h3>Skills:</h3>
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/Marybemani17/Marybemani17/blob/main/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
   
 </p>
